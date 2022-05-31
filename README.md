@@ -6,3 +6,5 @@ Digits Dataset.
 Run the code to show the interface.
 The interface will present the user with options to train, save or load the manual implementation.
 The user can also train, save and predict using the sklearn naive bayes GaussianNB method. 
+
+When saving models please overwrite the existing files to be able to load them without changing the code. 
